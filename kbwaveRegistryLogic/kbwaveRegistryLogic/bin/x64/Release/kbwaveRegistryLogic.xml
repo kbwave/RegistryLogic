@@ -1,0 +1,150 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+kbwaveRegistryLogic
+</name>
+</assembly>
+<members>
+<member name="P:kbwaveRegistryLogic.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:kbwaveRegistryLogic.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:kbwaveRegistryLogic.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:kbwaveRegistryLogic.commonRegistry._isInitialized">
+	<summary>
+ 事前準備を行ったか
+ </summary>
+	<remarks></remarks>
+</member><member name="F:kbwaveRegistryLogic.commonRegistry._applicationName">
+	<summary>
+ 使用するアプリ名を取得
+ </summary>
+	<remarks></remarks>
+</member><member name="F:kbwaveRegistryLogic.commonRegistry._regKeyWrite">
+	<summary>
+ 書き込みを行うレジストリキー
+ </summary>
+	<remarks></remarks>
+</member><member name="F:kbwaveRegistryLogic.commonRegistry._regKeyRead">
+	<summary>
+ 読み込みを行うレジストリキー
+ </summary>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.RegistData(System.String,System.Int32)">
+	<summary>
+ Int型のデータを登録
+ </summary>
+	<param name="data"></param>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.RegistData(System.String,System.Int64)">
+	<summary>
+ Long型のデータを登録
+ </summary>
+	<param name="data"></param>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.RegistData(System.String,System.Single)">
+	<summary>
+ Single型を登録
+ </summary>
+	<param name="data"></param>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.RegistData(System.String,System.Double)">
+	<summary>
+ Double型を登録
+ </summary>
+	<param name="data"></param>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.RegistData(System.String,System.String,System.Boolean)">
+	<summary>
+ String型のデータを登録
+ </summary>
+	<param name="data"></param>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.RegistData(System.String,System.String[])">
+	<summary>
+ 文字列配列を登録
+ </summary>
+	<param name="data"></param>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetData(System.String,System.Int32)">
+	<summary>
+ Int型で取得
+ </summary>
+	<param name="name"></param>
+	<param name="noneValue"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetData(System.String,System.Int64)">
+	<summary>
+ Long型で取得
+ </summary>
+	<param name="name"></param>
+	<param name="noneValue"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetData(System.String,System.Single)">
+	<summary>
+ Single型で取得
+ </summary>
+	<param name="name"></param>
+	<param name="noneValue"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetData(System.String,System.Double)">
+	<summary>
+ Double型で取得
+ </summary>
+	<param name="name"></param>
+	<param name="noneValue"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetData(System.String,System.String,System.Boolean)">
+	<summary>
+ String型で取得
+ </summary>
+	<param name="name"></param>
+	<param name="noneValue"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetData(System.String,System.String[])">
+	<summary>
+ String配列で取得
+ </summary>
+	<param name="name"></param>
+	<param name="noneData"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.StartUp">
+	<summary>
+ このモジュールのスタートアップを掛ける
+ </summary>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.IsInitialized">
+	<summary>
+ スタートアップを行ったか
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:kbwaveRegistryLogic.commonRegistry.GetSubKeyName">
+	<summary>
+ レジストリのサブキーを取得
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:kbwaveRegistryLogic.commonRegistry">
+	<summary>
+ レジストリ読込み・書き込みを行うクラス
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

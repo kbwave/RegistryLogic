@@ -1,0 +1,16 @@
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Release\kbwaveRegistryLogic.dll
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Release\kbwaveRegistryLogic.pdb
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Release\kbwaveRegistryLogic.xml
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.Resources.resources
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.vbproj.GenerateResource.Cache
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.dll
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.xml
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.pdb
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Release\kbwaveRegistryLogic.dll
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Release\kbwaveRegistryLogic.pdb
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Release\kbwaveRegistryLogic.xml
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.Resources.resources
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.vbproj.GenerateResource.Cache
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.dll
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.xml
+C:\Users\林 知宏\Documents\Visual Studio 2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Release\kbwaveRegistryLogic.pdb

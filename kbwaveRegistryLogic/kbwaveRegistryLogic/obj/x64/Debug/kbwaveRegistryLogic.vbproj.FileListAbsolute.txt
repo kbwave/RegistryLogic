@@ -1,0 +1,8 @@
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Debug\kbwaveRegistryLogic.dll
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Debug\kbwaveRegistryLogic.pdb
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\bin\x64\Debug\kbwaveRegistryLogic.xml
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Debug\kbwaveRegistryLogic.Resources.resources
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Debug\kbwaveRegistryLogic.vbproj.GenerateResource.Cache
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Debug\kbwaveRegistryLogic.dll
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Debug\kbwaveRegistryLogic.xml
+D:\VS2013\Projects\kbwaveRegistryLogic\kbwaveRegistryLogic\obj\x64\Debug\kbwaveRegistryLogic.pdb
